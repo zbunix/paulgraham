@@ -192,7 +192,7 @@ Paul Graham的文章以清新自然，思想深刻见长。不仅可以跟Paul G
 
 ###git库
 
-本文提到的Paul Graham文章的中文版本整理在一个git开源库中，参考地址为：[Paul Graham文集](https://cngithub@github.com/cngithub/paulgraham.git),欢迎fork与提交修改意见。
+本文提到的Paul Graham文章的中文版本整理在一个git开源库中，参考地址为：[Paul Graham文集](https://github.com/cngithub/paulgraham),欢迎fork与提交修改意见。
 
 ###中文编译
 
