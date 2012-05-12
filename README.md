@@ -210,7 +210,3 @@ Paul Graham的文章以清新自然，思想深刻见长。不仅可以跟Paul G
 * [Paul Graham中文站](http://paulgraham.perdu.us/)   
 * [Y Combinator](http://ycombinator.com/)
 * [Hacker News](http://news.ycombinator.com/)
-
-todo
-
-
