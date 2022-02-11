@@ -159,7 +159,7 @@ Paul Graham的文章以清新自然，思想深刻见长。不仅可以跟Paul G
 135.  [Chapter 2 of Ansi Common Lisp](http://www.paulgraham.com/http://lib.store.yahoo.net/lib/paulgraham/acl2.txt)
 136.  [Programming Bottom-Up](http://www.paulgraham.com/progbot.html)  
 
-##黑客与画家
+## 黑客与画家
 
 《黑客与画家》，Paul Graham所著，由阮一峰翻译。高质量的原著加上优雅的中译，[好评如潮的一本书](http://book.douban.com/subject/6021440/)。之前我在[《三十而立，小心忽悠》](http://www.yangzhiping.com/psy/huyou.html)中的评价如下：
 
@@ -184,17 +184,17 @@ Paul Graham的文章以清新自然，思想深刻见长。不仅可以跟Paul G
 
 	关于Paul Graham的这本书，再多文字的摘用也是一种侮辱。实在没时间的读者，就功利地选择第六章《如何创造财富》与第九章《设计者的品味》入手吧。 
 
-##其他资源
+## 其他资源
 
-###电子书
+### 电子书
 
 我利用leanpub的敏捷出版功能，整理了一本《Paul Graham文集》。格式支持epub，pdf与mobi。参考地址为：<http://leanpub.com/paulgraham/>
 
-###git库
+### git库
 
 本文提到的Paul Graham文章的中文版本整理在一个git开源库中，参考地址为：[Paul Graham文集](https://github.com/cngithub/paulgraham),欢迎fork与提交修改意见。
 
-###中文编译
+### 中文编译
 
 多数人因财富与权势成神，智者则因创作与思想成神。谈Paul Graham就不得不谈他当前的优秀作品：Y Combinator，一般简称YC。 关于YC的更多资讯以及所催化的创新公司，如dropbox等，请参考：[YC](http://ycombinator.com/)。Paul Graham及其粉丝也经常在[Hacker News](http://news.ycombinator.com/)上活动.
 
@@ -203,7 +203,7 @@ Paul Graham的文章以清新自然，思想深刻见长。不仅可以跟Paul G
 
 * Hacker News的中文编译请参考[黑客志](http://heikezhi.com/)与[外刊IT评论](http://www.aqee.net/).
 
-##参考
+## 参考
 
 * [Paul Graham个人网站](http://www.paulgraham.com/)
 * [Paul Graham维基介绍](http://en.wikipedia.org/wiki/Paul_Graham)
