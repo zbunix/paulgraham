@@ -14,7 +14,7 @@ Paul Graham与Robert Morris是Lisp方言[ARC语言](http://arclanguage.org/)的�
 
 更详细的介绍，可以参考阮一峰的介绍：[Paul Graham：撼动硅谷的人（译文）](http://www.ruanyifeng.com/blog/2010/12/paul_graham_the_disruptor_in_the_valley.html)与[我要翻译Paul Graham了](http://www.ruanyifeng.com/blog/2009/12/i_will_translate_paul_graham.html) 
 
-##Paul Graham中文文集
+## Paul Graham中文文集
 
 Paul Graham的文章以清新自然，思想深刻见长。不仅可以跟Paul Graham学创业，学思考，学技术，更可以学习写作。
 
