@@ -1,6 +1,6 @@
 # Paul Graham简介及中译整理
 
-##Paul Graham是谁？
+## Paul Graham是谁？
 
 该怎样介绍Paul Graham这位智者呢？
 
